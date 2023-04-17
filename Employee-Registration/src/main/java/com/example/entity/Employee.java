@@ -25,4 +25,6 @@ public class Employee {
     private long mobile;
     private String gender;
     private String dob;
+    private int verificationCode;
+    private String resetPassword;
 }
